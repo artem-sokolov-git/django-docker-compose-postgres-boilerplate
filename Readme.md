@@ -13,8 +13,8 @@ This is a basic template for Django projects configured to use Docker Compose, M
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/your_repository.git
-   cd your_repository
+   git clone https://github.com/artem-sokolov-git/django-docker-compose-postgres-boilerplate.git
+   cd django-docker-compose-postgres-boilerplate
 
 2. Install all required packages in `Requirements` section.
 
